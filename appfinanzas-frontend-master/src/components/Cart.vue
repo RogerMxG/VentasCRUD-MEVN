@@ -32,7 +32,7 @@
         </v-data-table>
         <div class=" " style="margin-left: 10px; margin-top: 10px">
           <span
-            ><strong> Total:{{ total }} Bs </strong></span
+            ><strong> Total:{{ total }} MX </strong></span
           >
         </div>
         <div class="text-center pt-2">
